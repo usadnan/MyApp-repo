@@ -1,3 +1,8 @@
 this is the file we are using to understand branching in git.
 
+
 just foillow me.
+
+this is an addition to the file from the branch edit10. 
+
+we will commit is after saving.
