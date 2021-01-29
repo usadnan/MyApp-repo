@@ -2,3 +2,6 @@
 this is a new file for a new accessment.
 this is also a test
 
+
+now lets see if it will not auto commit into the master.
+i wonder why it is working like this on mac.
